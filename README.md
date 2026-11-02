@@ -218,4 +218,4 @@ sih_final1/
 ---
 
 ### 🛡️ Repository
-* **GitHub Repository:** [https://github.com/bhavesh2148/sih-final](https://github.com/bhavesh2148/sih-final)
+* **GitHub Repository:** [SIFense — AI-Powered SIF Precursor Detection](https://github.com/AKTHARHUSSAIN09/SIFense-AI-Powered-SIF-Precursor-Detection)
